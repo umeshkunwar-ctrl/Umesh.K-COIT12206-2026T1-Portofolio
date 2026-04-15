@@ -13,7 +13,7 @@ This project demonstrates basic network configuration using GNS3 and Linux syste
 ---
 
 ## 1. Network Topology
-![Topology](topology.png)
+![Topology](week1.png)
 
 ### Description:
 This is the initial setup of the network in GNS3.  
@@ -23,7 +23,7 @@ This step helps in understanding how to build and manage network devices in a vi
 ---
 
 ## 2. Project Creation in GNS3
-![Project Creation](project-creation.png)
+![Project Creation](project-name.png)
 
 ### Description:
 A new project named **GNS-intro-12304055** was created in GNS3.  
@@ -32,7 +32,7 @@ This is the starting point where all configurations and experiments are performe
 ---
 
 ##  3. Network Configuration (Static IP)
-![Config](network-config.png)
+![Config](config.png)
 
 ### Description:
 The network interface file `/etc/network/interfaces` was edited to assign a static IP address.
