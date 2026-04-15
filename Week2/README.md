@@ -14,7 +14,9 @@ Four hosts are connected through a switch, configured with static IP addresses, 
 ---
 
 ##  1. Network Topology
-![Topology](topology.png)
+
+w2.png
+week2intro.png
 
 ### Description:
 The network consists of:
@@ -27,7 +29,9 @@ This setup represents a basic LAN (Local Area Network).
 ---
 
 ##  2. Project Creation
-![Project Setup](project-setup.png)
+![Topology](w2.png)
+![Project Setup](w2step.png)
+
 
 ### Description:
 A new project was created in GNS3.  
@@ -36,8 +40,8 @@ This step initializes the workspace where all devices and configurations are add
 ---
 
 ##  3. Host Configuration (Static IP)
-![Host Config](host-config.png)
-
+![Host Config](w2step1.png)
+![Host Config](w2step2.png)
 ### Description:
 Each host was configured with a static IP address by editing:
 
