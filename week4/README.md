@@ -42,7 +42,7 @@ This allows dynamic route exchange between networks.
 ---
 
 ## 3. Host 1 Configuration
-w4step3.png
+![cofig](w4step3.png)
 
 
 
