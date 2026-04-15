@@ -14,7 +14,7 @@ It includes multiple hosts, switches, and routers connected across different sub
 ---
 
 ##  1. Network Topology
-![Topology](topology.png)
+![config](w6intro.png)
 
 ### Description:
 This topology includes:
@@ -30,12 +30,24 @@ This topology includes:
 This setup simulates a real-world enterprise LAN with routing between networks.
 
 ---
+![My Network](w6step1.png)
+![My Network](w6step2.png)
+![My Network](w6step3.png)
+![My Network](w6step4.png)
+![My Network](w6step5.png)
+
+
+
+
+
+
+ping 10.10.10.20
+ping 10.10.10.30
 
 ##  2. Host Configuration
 
 ###  Host A Configuration
-![HostA](hostA-config.png)
-
+![HostA](w6step6.png)
 Configured with:
 - IP: 10.10.10.10
 - Gateway: 10.10.10.1
@@ -43,7 +55,7 @@ Configured with:
 ---
 
 ###  Host B Configuration
-![HostB](hostB-config.png)
+![HostB](w6step7.png)
 
 Configured with:
 - IP: 10.10.10.20
@@ -52,8 +64,7 @@ Configured with:
 ---
 
 ###  Host C Configuration
-![HostC](hostC-config.png)
-
+![HostC](w6step8.png)
 Configured with:
 - IP: 10.10.10.30
 - Gateway: 10.10.10.1
@@ -61,7 +72,7 @@ Configured with:
 ---
 
 ###  Host D Configuration
-![HostD](hostD-config.png)
+![HostD](w6step8.png)
 
 Configured with:
 - IP: 10.10.10.40
@@ -72,7 +83,14 @@ Configured with:
 ##  3. Router Configuration
 
 ###  Router 1
-![Router1](router1-config.png)
+![Router1](w6step9.png)
+![Router1](w6step10.png)
+![Router1](w6step11.png)
+![Router1](w6step12.png)
+
+
+
+
 
 Configured interfaces:
 - 10.10.10.1 → LAN
