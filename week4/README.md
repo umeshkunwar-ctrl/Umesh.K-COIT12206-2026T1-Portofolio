@@ -13,7 +13,7 @@ Multiple hosts and a router are configured to communicate across different netwo
 ---
 
 ##  1. Network Topology
-![Topology](topology.png)
+week3step1.png
 
 ### Description:
 The network consists of:
@@ -28,7 +28,7 @@ All devices are connected through the router to enable inter-network communicati
 ---
 
 ##  2. FRR OSPF Configuration
-![FRR](frr-config.png)
+w4step2.png
 
 ### Description:
 FRR daemons were configured to enable OSPF routing.
@@ -42,10 +42,19 @@ This allows dynamic route exchange between networks.
 ---
 
 ## 3. Host 1 Configuration
-![Host1](host1-config.png)
+w4step3.png
+
+
+
 
 ### Description:
 Host1 was configured with static IP:
+w4step4.png
+w4step5.png
+w4step6.png
+w4step7.png
+
+
 
 ```bash
 address 10.1.1.11
