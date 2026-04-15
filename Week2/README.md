@@ -14,9 +14,11 @@ Four hosts are connected through a switch, configured with static IP addresses, 
 ---
 
 ##  1. Network Topology
+![Topology](week2intro.png)
+![Topology](week2.png)
+![Topology](w2.png)
+![Topology](w2step.png)
 
-w2.png
-week2intro.png
 
 ### Description:
 The network consists of:
@@ -27,6 +29,8 @@ Each host is connected to the switch using Ethernet interfaces.
 This setup represents a basic LAN (Local Area Network).
 
 ---
+![My Network](w2step1.png)
+
 
 ##  2. Project Creation
 ![Topology](w2.png)
@@ -40,8 +44,8 @@ This step initializes the workspace where all devices and configurations are add
 ---
 
 ##  3. Host Configuration (Static IP)
-![Host Config](w2step1.png)
-![Host Config](w2step2.png)
+![Host Config](w2step3.png)
+![Host Config](w2step4.png)
 ### Description:
 Each host was configured with a static IP address by editing:
 
