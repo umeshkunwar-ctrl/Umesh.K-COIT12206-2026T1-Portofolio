@@ -64,8 +64,9 @@ This allows dynamic route exchange between networks.
 
 ---
 
-## 3. Host 1 Configuration
-![cofig](w4step3.png)
+## 3. FRR Configuration
+Show ip OSPF Route
+![cofig](image.png)
 
 
 
