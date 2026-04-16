@@ -17,8 +17,9 @@ Multiple hosts and a router are configured to communicate across different netwo
 ---
 
 ##  1. Network Topology
+![Topology](name.png)
 ![Topology](w4intro.png)
-![Topology](week3step1.png)
+
 
 ### Description:
 The network consists of:
@@ -31,7 +32,8 @@ The network consists of:
 All devices are connected through the router to enable inter-network communication.
 
 ---
-![My Network](w4step2.png)
+![My Network](host_2.png)
+![My Network](hhost3.png)
 ![My Network](w4step3.png)
 
 ##  2. FRR OSPF Configuration
