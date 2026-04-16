@@ -17,6 +17,7 @@ Multiple hosts and a router are configured to communicate across different netwo
 ---
 
 ##  1. Network Topology
+![Topology](w4intro.png)
 ![Topology](week3step1.png)
 
 ### Description:
