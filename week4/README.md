@@ -70,7 +70,6 @@ Show ip OSPF Route
 
 
 
-
 ### Description:
 Host1 was configured with static IP:
 ![My Network](w4step4.png)
