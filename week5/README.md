@@ -52,7 +52,7 @@ In this stage, a router is added to the topology to allow communication between 
 ![Host Config](w5step7.png)
 ![Host Config](w5step8.png)
 
-packet tracker(wireshark)
+  ## packet tracker(wireshark)
 ![Host Config](w5step9.png)
 
 ### Description
