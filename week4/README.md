@@ -77,7 +77,8 @@ Host1 was configured with static IP:
 ![My Network](w4step6.png)
 ![My Network](w4step7.png)
 
-
+the result of  after NE term is stopped and also result before
+![track ](iimagetrack.png)
 
 
 ```bash
