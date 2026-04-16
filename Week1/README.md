@@ -34,7 +34,7 @@ This is the starting point where all configurations and experiments are performe
 
 ##  3. Network Configuration (Static IP)
 ![Config](config.png)
-
+![Config](console.png)
 ### Description:
 The network interface file `/etc/network/interfaces` was edited to assign a static IP address.
 
