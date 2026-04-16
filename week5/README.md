@@ -13,7 +13,9 @@ Hosts are divided into different VLANs and communication is controlled using tag
 ---
 
 ##  1. Network Topology
-![Topology](topology.png)
+![Network Topology](w5intro.png)
+![Network Topology](w5intro1.png)
+
 
 ### Description:
 - Two VLAN groups:
@@ -23,6 +25,11 @@ Hosts are divided into different VLANs and communication is controlled using tag
 - Each VLAN represents a separate logical network
 
 ---
+![Config](w5step1.png)
+![Config](w5step2.png)
+![Config](w5step3.png)
+
+
 
 ##  2. Task 2 Topology with Router
 ![Task2](task2-topology.png)
@@ -32,9 +39,27 @@ A router is introduced to enable communication between VLANs.
 This is required because VLANs cannot communicate directly.
 
 ---
+![Host Config](w5step4.png)
+![Host Config](w5step5.png)
+![Host Config](w5step6.png)
+![Host Config](w5step7.png)
+![Host Config](w5step8.png)
+![Host Config](w5step9.png)
+
+
+
+
+
+
+
+This shows the static IP configuration of the host.
+
+This shows the static IP configuration of the host.
+
+This shows the static IP configuration of the host.
 
 ##  3. Open vSwitch Initialization
-![OVS Init](ovs-init.png)
+![OVS Init](w4step4)
 
 ### Description:
 OVS was started using:
@@ -51,5 +76,15 @@ ovs-vsctl show
 ip link add link eth0 name eth0.491 type vlan id 491
 ip link add link eth0 name eth0.492 type vlan id 492
 ping 10.10.2.104
+## Router Configuration
+![Router Config](w4step4.png)
+![Router Config](w4step5.png)
+![Router Config](w4step6.png)
+
+
+
+
+The router is configured with multiple interfaces to connect different networks.  
+IP forwarding is enabled to allow packet routing between subnets.
 
 
