@@ -36,8 +36,22 @@ All devices are connected through the router to enable inter-network communicati
 ![My Network](hhost3.png)
 ![My Network](w4step3.png)
 
+## Router Configuration
+![My Network](routerrestart.png)
+![My Network](router.png)
+
+## ping connectivity(ping 10.1.1.1)
+![My Network](pingh1-router.png)
+
+## Task 2 
+![My Network](1.png)
+
+
 ##  2. FRR OSPF Configuration
-w4step2.png
+Show ip ospf neighbor
+![My Network](frr1.png)
+
+![My Network](frr-1-checkingip-route.png)
 
 ### Description:
 FRR daemons were configured to enable OSPF routing.
@@ -62,6 +76,8 @@ Host1 was configured with static IP:
 ![My Network](w4step5.png)
 ![My Network](w4step6.png)
 ![My Network](w4step7.png)
+
+
 
 
 ```bash
